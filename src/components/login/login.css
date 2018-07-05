@@ -1,0 +1,18 @@
+.login-w{
+    height: 100%;
+    background: -webkit-linear-gradient(180deg, #46caff, #3d72af);
+    background: linear-gradient(180deg, #46caff, #3d72af);
+    position: relative;
+}
+.login{
+    width:400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-70%);
+}
+.login-foot{
+    text-align: center;
+    padding-top: 50px;
+}
+.fs-f .MuiInput-root-15 .MuiInput-input-23{ color: #fff;}

@@ -1,0 +1,13 @@
+html, body {height: 100%;overflow: hidden;}
+body {
+    font-size: 14px;line-height: 1.5;background: #fff;-webkit-text-size-adjust: 100%!important;
+    font-family: Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei";
+}
+body, p, ul, ol, li, h1, h2, h3, h4, h5, h6, dl, dt, dd{margin: 0;padding: 0;}
+h1, h2,h3, h4, h5, h6{font-size: 100%;font-weight: normal;}
+em, i {font-style: normal;}
+input {outline: none;}
+ul, ol {list-style: none;}
+a {color: #000;text-decoration: none;}
+img {border: none;}
+.app-root{height:100%;}
